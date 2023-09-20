@@ -1,0 +1,9 @@
+<script>
+function openRegistrationPopup() {
+    window.open('registro.html', 'Registro', 'width=400, height=400');
+}
+
+function openLoginPopup() {
+    window.open('login.html', 'Login', 'width=400, height=400');
+}
+</script>
